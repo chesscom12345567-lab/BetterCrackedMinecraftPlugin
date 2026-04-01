@@ -1,0 +1,6 @@
+name: BypassOnlineMode
+version: 1.0
+main: com.github.hydriel.bypass.BypassPlugin
+api-version: 1.21
+author: Hydriel
+description: Selectively bypass online-mode for specific players in Paper 1.21.11.
